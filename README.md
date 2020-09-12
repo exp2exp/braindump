@@ -12,9 +12,34 @@ This braindump is generated via [ox-hugo][ox-hugo] and uses the
 The org files used to generate the markdown files are also hosted here
 for posterity. They can be found in [the org folder][org].
 
-## Regenerating files
+## ox-hugo quickstart
 
+In regular Emacs initialisation:
 
+```lisp
+(with-eval-after-load 'ox
+  (require 'ox-hugo))
+```
+
+In the Org files, add strings like this at the top:
+
+```org
+#+setupfile:./hugo_setup.org
+#+hugo_slug: something_goes_here
+#+title: ...
+...
+```
+
+As a one-off export of a single file, you can run: `C-c C-e H A` (or `M-x org-export-dispatch RET H A`).
+
+However, much better than that: we have added `.dir-locals.el` to the top-level `(~/notes)` directory, with contents as follows:
+
+```
+(("org/"
+  . ((org-mode . ((eval . (org-hugo-auto-export-mode)))))))
+```
+
+This automatically generate a markdown file in `~/notes/content/` any time an Org file in `~/notes/org/` is saved.
 
 ## Installation instructions
 
