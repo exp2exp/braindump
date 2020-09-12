@@ -1,0 +1,50 @@
++++
+title = "GPT fine-tuned on SO Q&A tasks"
+author = ["Joe Corneli"]
+lastmod = 2020-09-12T21:07:41+01:00
+slug = "gpt_trained_on_so_data"
+draft = false
++++
+
+Could we set up a simple version of **GPT** trained on Stack Overflow
+data, just to get it working? Then think about how to get a learning
+loop set up to improve the results...
+
+
+## Ideas {#ideas}
+
+-   Could this at least help a human navigate the questions on Stack Exchange?
+-   Rather than just answering the question, generate the answer and use
+    that to guide search (by combining generation with document similarity)
+-   Use a distance to set up a margin of tolerance
+
+
+## Precedents {#precedents}
+
+-   [Stack Roboflow](https://stackroboflow.com/about/index.html) creates ersatz Q&A using `AWD_LTSM`.  Surely we can do better?
+-   In Google Books, they use crappy OCR which is good enough for search, but you wouldn't want to read the output.  For search, they use something like rewrite distance, finding something ‘within 5 errors’.
+
+
+## Analogue {#analogue}
+
+In parsing, it's not just edit distance but has to involve the grammar
+
+
+## Case against going too deep: {#case-against-going-too-deep}
+
+-   Code generation is hard
+
+
+## Case against worrying about that: {#case-against-worrying-about-that}
+
+-   Worry instead about applications like generating learning packets
+    -   E.g., learn everything there is to know about `git` from Stack Overflow in a nicely organised way.
+    -   E.g., compare the Schuam’s Outline series: could we reassemble open source clones of Schuam’s Outlines by retrieving contents from Math.Stack Exchange?
+
+
+## <span class="org-todo todo STARTED">STARTED</span> Initial import of SO for training {#initial-import-of-so-for-training}
+
+
+## Next steps {#next-steps}
+
+-   [Display SO with similarity graph]({{< relref "display_so_with_similarity_graph" >}})
