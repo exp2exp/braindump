@@ -1,0 +1,13 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: paperspace_do_nj_etc_collaboratory
+#+title: Paperspace DO NJ etc. Collaboratory
+
+This would be a potential user-facing product in which we could deploy
+various curricula, share various tools for interacting with
+scientific/computational models, and build a “knowledge hub” of people
+who could do scientific work.
+
+* Contributes to :noexport:
+
+- [[file:20200814210243-business_development.org][BUSINESS DEVELOPMENT]]
+- [[file:20200814203551-data_course.org][DATA COURSE]]

@@ -1,0 +1,12 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: obs_recordings 
+#+TITLE: OBS recordings
+#+CATEGORY: OBS
+
+We talked about creating asyncronous recordings (screencasts,
+audio). We also talked about possibly putting the audio recordings
+into a threaded voice mail forum, but that's a somewhat different
+application.
+
+* DONE We have tech set up to recording our meetings           :cameron:
+* DONE Joe knows how to use OBS so can be a backup player               :joe:

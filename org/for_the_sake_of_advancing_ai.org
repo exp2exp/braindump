@@ -1,0 +1,29 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: for_the_sake_of_advancing_ai
+#+title: For the sake of advancing AI
+#+roam_tags: HL
+
+We are doing this R&D work partly to make demonstrations of more
+advanced AI systems.  We expect that our stance on AI will not
+necessarily be a popular one.  But this is an important “minor” strand
+of AI research dating back to Alan Turing:
+
+#+begin_quote
+"As time goes on the [computer] itself will take over the functions
+both of [programmers] and of [users]…The [programmers] are liable to
+get replaced because as soon as any technique becomes at all
+stereotyped it becomes possible to devise a system of instruction
+tables which will enable the electronic computer to do it for
+itself. It may happen however that the [programmers] will refuse to do
+this. They may be unwilling to let their jobs be stolen from them in
+this way. In that case they would surround the whole of their work
+with mystery and make excuses, couched in well chosen gibberish,
+whenever any dangerous suggestions were made." -- Alan Turing, 1947.
+#+end_quote
+
+* Next steps :noexport:
+:PROPERTIES:
+:ID:       0f6193a1-137a-4fe7-8957-cc4c0b2e1d90
+:END:
+
+- [[file:production_system.org][Production system]]

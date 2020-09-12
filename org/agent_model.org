@@ -1,0 +1,13 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: agent_model
+#+title: Agent model
+#+roam_tags: HD
+
+One of our central intentions is to instantiate our work in an agent
+model of Q&A and programming.  This is based on Alan Turing’s
+suggestion that computers could talk with each other to sharpen their
+wits.
+
+* Next steps :noexport:
+
+- [[file:an_abm_of_the_computer_programming_domain.org][An ABM of the computer programming domain]]

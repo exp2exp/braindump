@@ -1,0 +1,14 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: advances_in_tutoring_systems
+#+TITLE: Advances in tutoring systems for programming
+#+roam_tags: RR
+
+"Advances in tutoring systems for programming"
+
+*Follow references, start with ‘AI and tutoring’.*
+
+1. (2014) "An adaptation algorithm for an intelligent natural language tutoring system"
+2. (2008) "A novel approach for constructing conversational agents using sentence similarity measures"
+
+* Contributes to :noexport:
+- [[file:research_outputs.org][RESEARCH OUTPUTS]]

@@ -1,0 +1,13 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: arxana_2020
+#+TITLE: Arxana 2020
+
+Revisit [[https://repo.or.cz/w/arxana.git][Arxana]] and turn it into something that we can actually use.
+This is rather closely related to the use of [[file:knowledge_graph.org][Knowledge graph]]
+formulations, since Arxana allows us to combine writing with knowledge
+representations.  In our last round of work with Arxana, we left off
+at the point of integrating logic programming into the system.
+
+* Contributes to
+
+- [[file:code_sharing_platform.org][Code sharing platform]]

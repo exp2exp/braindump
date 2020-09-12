@@ -1,0 +1,10 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: research_outputs
+#+title: RESEARCH OUTPUTS
+#+roam_tags: HL
+
+We would like to publish some papers.
+
+* Next steps :noexport:
+
+- [[file:bottom.org][Bottom]]

@@ -1,0 +1,23 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: production_system
+#+title: Production system
+#+roam_tags: CDN
+#+CATEGORY: CODE
+
+We’ve started to build a simple production system that can be used to
+detect errors in subtraction (reimplementing some classic work). We
+were thinking that something similar could be used to detect other
+kinds of errors (so, for debugging, teaching), and to support other
+kinds of reasoning processes (e.g., turning Q’s into A’s in a
+question-answering system).
+
+We previously did a little exploratory work, with similar intent, using
+polygraphs as input, in the workshop paper
+/Modelling the Way Mathematics Is Actually Done/. 
+
+* STARTED Reimplementing classic rules to model subtraction :ray:
+
+* Contributes to                                                   :noexport:
+
+- [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]
+- [[file:agent_model.org][Agent model]]

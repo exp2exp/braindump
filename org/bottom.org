@@ -1,0 +1,8 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: bottom
+#+title: Bottom
+#+roam_tags: HL
+
+By the time we get to this point, we will have established some
+impressive research outputs, a potentially profitable business, and a
+teaching/upskilling platform for technical and scientific topics.

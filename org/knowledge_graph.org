@@ -1,0 +1,17 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: knowledge_graph
+#+title: Knowledge graph
+#+roam_tags: LRD
+
+Once we have a model of knowledge from Q&A items, e.g., in the form of
+triples. we will want to be able to do something with this material.
+One way in which it may be useful is in combination with an existing
+knowledge graph.  For example, we can look at material from Concept
+Net.  We may also have to make some of our own Concept Net-like
+graphs.
+
+* Next steps :noexport:
+
+- [[file:20200905130423-agent_model.org][Agent model]]
+- [[file:teach_arbitrary_coding.org][Teach arbitrary coding]]
+- [[file:20200810135403-advances_in_knowledge_mining_from_technical_documents.org][Advances in knowledge mining from technical documents]]

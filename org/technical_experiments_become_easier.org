@@ -1,0 +1,12 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: technical_experiments_become_easier
+#+title: Technical experiments become easier
+#+roam_tags: HL
+
+We are doing some applied work with existing software that will give
+us a set of further tools and levers to work with.
+
+* Next steps :noexport:
+
+- [[file:20200811185614-gpt_trained_on_so_data.org][GPT fine-tuned on SO Q&A tasks]]
+

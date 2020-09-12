@@ -1,0 +1,16 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: category_theoretic_glue
+#+title: Category theoretic glue
+#+roam_tags: CDN
+#+CATEGORY: MATH
+
+We want to develop enough theory that we can use it to frame our
+experiments.  We are trying to do this in a computationally meaningful
+way.
+
+* STARTED Talking about comma categories                              :ray:zans:
+
+* Next steps :noexport:
+
+- [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]
+- [[file:probabilistic_programming_for_scientific_modelling.org][Probabilistic programming for scientific modelling]]

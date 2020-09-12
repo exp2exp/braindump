@@ -1,0 +1,13 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: display_so_with_similarity_graph
+#+title: Display SO with similarity graph
+
+E.g., use generated answers to help identify ‘similarity’.
+
+* Related work
+
+- https://github.com/stared/tag-graph-map-of-stackexchange/wiki presents a nice-looking map of the relationship between tags.
+
+* Next steps :noexport:
+
+- [[file:recommender_system.org][Recommender System]]

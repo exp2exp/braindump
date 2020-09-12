@@ -1,0 +1,35 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: visual_interfaces
+#+TITLE: Visual Interfaces
+#+roam_tags: LRD
+
+* Graphical flow for programs
+
+Can we model more general program flow in a similar fashion to Monocl?
+
+* Limitations
+
+The idea of graphical programming languages is linked with the
+[[https://en.wikipedia.org/wiki/Deutsch_limit][Deutsch_limit]] (for noted programmer [[https://en.wikipedia.org/wiki/L._Peter_Deutsch][L Peter Deutsch]], not [[https://en.wikipedia.org/wiki/David_Deutsch][David Deutsch
+FRS]], though perhaps he could come into play later):
+
+#+begin_quote
+/The problem with visual programming is that you can’t have more than 50 visual primitives on the screen at the same time./
+#+end_quote
+
+* Automatically create visual interfaces
+
+Here's an idea: assuming we have enough text mining pixie dust (on
+corpora of linux man pages, and stack overflow questions/forum posts
+about linux commands), it might be possible to do:
+
+=user:~$ make-gui-for ls --output ls.py=
+
+* Next steps :noexport:
+:PROPERTIES:
+:ID:       8ed6b549-0761-4f06-b478-d47e5ff1036f
+:END:
+
+- [[file:probabilistic_programming_for_scientific_modelling.org][Probabilistic programming for scientific modelling]]
+- [[file:paperspace_do_nj_etc_collaboratory.org][Paperspace DO NJ etc. Collaboratory]]
+- [[file:20200810135325-advances_in_tutoring_systems_for_programming.org][Advances in tutoring systems for programming]]

@@ -1,0 +1,20 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: generating_small_graphs
+#+title: Generating small graphs
+#+roam_tags: CDN
+
+Build infra for generating and displaying graphs.
+
+#+begin_src elisp
+(defun triangle (n)
+  (if (equal n 0) 0
+    (+ n (triangle (- n 1)))))
+#+end_src
+
+* Related
+
+- Possibly link this to [[file:20200810135753-visual_code_walk_through.org][Visual code walk through]] so that we generate graphs based on code flow.
+
+* Contributes  to
+
+- [[file:20200810135457-visual_interfaces.org][Visual Interfaces]]

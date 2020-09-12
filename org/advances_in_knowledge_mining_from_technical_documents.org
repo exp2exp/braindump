@@ -1,0 +1,10 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: advances_in_knowledge_mining
+#+TITLE: Advances in knowledge mining from technical documents
+#+roam_tags: RR
+
+Advances in knowledge mining from technical documents
+
+* Contributes to :noexport:
+
+- [[file:research_outputs.org][RESEARCH OUTPUTS]]

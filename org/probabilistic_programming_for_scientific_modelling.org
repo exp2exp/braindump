@@ -1,0 +1,10 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: probabilistic_programming_for_scientific_modelling
+#+title: Probabilistic programming for scientific modelling
+#+roam_tags: HD
+#+CATEGORY: MATH
+
+Probabilistic programming is useful within both scientific modelling,
+and, potentially, as part of a program synthesis toolkit.
+
+* STARTED Talking about probabilistic programming and categories   :zans:cameron:

@@ -1,0 +1,17 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: why_not_what
+#+title: Why not what
+#+roam_tags: HL
+
+Our purpose:
+
+- *We want to make the knowledge economy accessible to everyone.*
+- *Web 2.0 hasn’t achieved that, although it has produced a large pool of open data.*
+- *We will use this data to bootstrap AI tools that support knowledge workers.*
+- Our first product will be an AI tutor that helps people learn how to program and connects them with practical projects.
+- The next step will be an AI assistant for professional level teams.
+- *Our long-term vision is computational intelligence based on collective intelligence.*
+
+* Next steps :noexport:
+
+- [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]

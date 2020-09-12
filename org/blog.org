@@ -1,0 +1,15 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: blog
+#+title: Blog
+#+CATEGORY: BLOG
+
+Public version of our experiments, available at https://exp2exp.com.
+
+Presently we’re still figuring out what the work flow and contents would look like.  To whom are we trying to appear credible?
+
+* DONE Set up initial ghost blog                                        :joe:
+* STARTED Drafting initial blog post                                    :joe:
+
+* Related                                                          :noexport:
+
+- [[file:20200814193042-code_sharing_platform.org][Code sharing platform]]

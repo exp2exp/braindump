@@ -1,0 +1,49 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: emacs_hyper_notebook
+#+title: Emacs Hyper Notebook
+#+roam_tags: CDN
+
+We are developing a better way to do “Jupyter notebooks” using Emacs.
+This recovers some of the Research Collab ideas developed by Aaron
+Krowne. It should integrate features such as writing and task
+management (e.g., /Org/) Program evaluation (e.g., /Maxima/),
+Typesetting and presentation (e.g., slides via /LaTeX/), and
+navigation (e.g., /Org Roam/ for displaying topics as a graph).  We
+should be clear that the various technologies used are slot-fillers
+and they might be replaced with other things, or augmented (e.g.,
+/Lean/ for formal verification of some of the above?). A useful input
+to this process would be implementation of examples without
+integration.  This can then be redone in a more integrated fashion.
+
+An integration using existing technologies will have limitations, once
+we have this demos then we will see some of the gaps and how more
+advanced tech could be useful. (For example, Ray’s work with Gerschom
+could turn out to be useful here.)
+
+* Partial prototypes
+
+How far can we go...
+
+- Through Roam? (Talk to Connor about Roam on Twitter?)
+- Through Jupyter?
+- [[https://foambubble.github.io/foam/][Foam?]] [[https://gtoolkit.com/][Glamorous Toolkit?]]
+
+Can we integrate it with existing tools?  Do Lenses help with this?
+Would it play a role as a backend system?
+
+* Links to useful resources
+
+- [[https://github.com/exp2exp/notebooks][exp2exp/notebooks: This is a Docker configuration for running jupyter with multiple kernels on Arch Linux.]]
+- [[https://www.gnu.org/software/emacs/manual/html_node/emacs/emacsclient-Options.html][emacsclient Options - GNU Emacs Manual]]
+- [[https://github.com/butlerx/wetty][butlerx/wetty: Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)]]
+- [[https://github.com/xtermjs/xterm.js#real-world-uses][xtermjs/xterm.js: A terminal for the web]]
+- [[https://twitter.com/cianbutlerx]]
+- [[https://github.com/tsl0922/ttyd][tsl0922/ttyd: Share your terminal over the web]]
+- [[https://github.com/yudai/gotty][yudai/gotty: Share your terminal as a web application]]
+- [[https://hub.docker.com/r/butlerx/wetty][butlerx/wetty - Docker Hub]]
+- [[https://medium.com/@pacroy/setup-web-terminal-using-wetty-docker-image-dcb1ea75bfaf][Setup Web Terminal using Wetty Docker Image | by Chairat Onyaem (Par) | Medium]]
+- [[https://hub.docker.com/r/krishnasrinivas/wetty/][krishnasrinivas/wetty - Docker Hub]]
+
+* Contributes to                                                   :noexport:
+- [[file:20200810135457-visual_interfaces.org][Visual Interfaces]]
+- [[file:20200810135512-arxana_2020.org][Arxana 2020]]

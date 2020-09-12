@@ -1,0 +1,10 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: recommender_system
+#+title: Recommender System
+
+We could consume various analyses of Stack Exchange data to make
+recommendations.
+
+* Contributes to
+
+- [[file:20200814210243-business_development.org][BUSINESS DEVELOPMENT]]

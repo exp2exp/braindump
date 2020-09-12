@@ -1,0 +1,69 @@
+#+setupfile:./hugo_setup.org
+#+hugo_slug: top
+#+TITLE: Top
+#+roam_tags: HL
+
+* Representative Prior Work
+
+** PlanetMath
+
+In our work on PlanetMath we came up with several previews.  Some of
+these may be concretely relevant.
+
+- https://github.com/holtzermann17/planetmath-docs/labels/PREVIEW
+- We wondered if there could be a specific opportunity with the
+  category theory community.
+
+** Modelling the way mathematics is actually done
+
+In this paper we talked about how mathematics is situated somewhere in
+between games and storytelling in its complexity.
+
+* We aim for short correlated sprints as opposed to random behaviour
+
+“Two people working together 4 hours a week for two weeks” is an
+approximate unit of work.  Once we have amassed a few outputs from
+this kind of effort, we will have some evidence of the kinds of things
+that we can realistically achieve.
+
+* Customer development
+
+“Users” and “customers” will come from expanding our little community.
+
+#+begin_quote
+Zans: /If I implemented as I read things, it would be a pretty interesting blog. There could be a huge market of people interested in following this, this would give a pool of people who know who we are. This is a nice goal b/c it doesn't focus on the product... but it's a deliverable, made up of smaller deliverables, and a concrete benefit./
+#+end_quote
+
+* Us
+
+So, let's have a blog, and say, roughly speaking we will try to
+develop a curriculum through the blog.  This gives us a starting point
+in terms of resources.  People might interject in ways that aren't
+exactly a curriculum.  But we would later see how things can be
+ordered.
+
+- Rouseau: /amour-propre/ / /amor du sois/
+- Record discussions, post on a YouTube channel
+- Try to record and share conversations, but don't constrain things to come out in a purely structured curriculum.
+
+#+begin_quote
+Hypothetical conversation: /In my next post I want to integrate something that I learned from you about PL.  I want to drive in the direction of synthesis, as hard as I know how to right now.  This depends on everyone having free time to invest in this.  Start a blog where we think about what's the overlap in terms of learning?/
+#+end_quote
+
+* A quandry
+
+Note that hand-coding of a curriculum vs making a general framework
+that anyone can contribute to (e.g., to make their own curricula) are
+pretty different things.  We will sort out this ambiguity later.
+
+* Subgoals: :noexport:
+:PROPERTIES:
+:ID:       1d3660fd-8826-4afb-b1e4-91b20c27ee9a
+:END:
+
+- [[file:20200905124405-construct_critique_improve_models.org][Construct, critique, improve models]]
+- [[file:20200905124432-underlying_foundation.org][Underlying foundation]]
+- [[file:20200905124558-why_not_what.org][Why not what]]
+- [[file:20200905124633-for_the_sake_of_advancing_ai.org][For the sake of advancing AI]]
+- [[file:20200905124905-technical_experiments_become_easier.org][Technical experiments become easier]]
+- [[file:20200905125023-which_model_construction_process_works_as_a_whole.org][Which model construction process works as a whole?]]
