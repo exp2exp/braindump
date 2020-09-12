@@ -7,4 +7,4 @@ knowledge graphs.
 
 * Contributes to
 
-- [[file:20200810135325-advances_in_tutoring_systems_for_programming.org][Advances in tutoring systems for programming]] (although, this seems like less of a next step and more of a co-informative thing)
+- [[file:advances_in_tutoring_systems_for_programming.org][Advances in tutoring systems for programming]] (although, this seems like less of a next step and more of a co-informative thing)

@@ -13,8 +13,8 @@ Build infra for generating and displaying graphs.
 
 * Related
 
-- Possibly link this to [[file:20200810135753-visual_code_walk_through.org][Visual code walk through]] so that we generate graphs based on code flow.
+- Possibly link this to [[file:visual_code_walk_through.org][Visual code walk through]] so that we generate graphs based on code flow.
 
 * Contributes  to
 
-- [[file:20200810135457-visual_interfaces.org][Visual Interfaces]]
+- [[file:visual_interfaces.org][Visual Interfaces]]

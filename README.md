@@ -12,6 +12,10 @@ This braindump is generated via [ox-hugo][ox-hugo] and uses the
 The org files used to generate the markdown files are also hosted here
 for posterity. They can be found in [the org folder][org].
 
+## Regenerating files
+
+
+
 ## Installation instructions
 
 Install [hugo][hugo]. E.g., on a Mac with Homebrew:
