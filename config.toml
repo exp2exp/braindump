@@ -1,10 +1,10 @@
-baseURL = "https://braindump.jethro.dev/"
+baseURL = "https://notes.exploretoexploit.com/"
 languageCode = "en-us"
-title = "Jethro's Braindump"
+title = "Explore to Exploit"
 theme = "cortex"
 
 [params]
-email = "jethrokuan95@gmail.com"
+email = "exploretoexploit@gmail.com"
 footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
 
 [markup]
