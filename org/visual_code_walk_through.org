@@ -22,6 +22,6 @@ Ray is working on a visual code walk through.
   a minimum trace, showing where your bug can be found.
 
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:teach_basic_coding.org][Teach basic coding]]

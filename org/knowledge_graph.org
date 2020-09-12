@@ -10,7 +10,7 @@ knowledge graph.  For example, we can look at material from Concept
 Net.  We may also have to make some of our own Concept Net-like
 graphs.
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:20200905130423-agent_model.org][Agent model]]
 - [[file:teach_arbitrary_coding.org][Teach arbitrary coding]]

@@ -6,7 +6,7 @@
 We are doing some applied work with existing software that will give
 us a set of further tools and levers to work with.
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:20200811185614-gpt_trained_on_so_data.org][GPT fine-tuned on SO Q&A tasks]]
 

@@ -57,6 +57,6 @@ linear regression, and working up to things like Lotka-Voltera model.
 
 - Michael Betancourt: Towards a principled bayesian workflow
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:bottom.org][Bottom]]

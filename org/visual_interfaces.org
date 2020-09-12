@@ -25,7 +25,7 @@ about linux commands), it might be possible to do:
 
 =user:~$ make-gui-for ls --output ls.py=
 
-* Next steps :noexport:
+* Next steps 
 :PROPERTIES:
 :ID:       8ed6b549-0761-4f06-b478-d47e5ff1036f
 :END:

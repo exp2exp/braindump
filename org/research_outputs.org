@@ -5,6 +5,6 @@
 
 We would like to publish some papers.
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:bottom.org][Bottom]]

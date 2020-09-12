@@ -56,7 +56,7 @@ Note that hand-coding of a curriculum vs making a general framework
 that anyone can contribute to (e.g., to make their own curricula) are
 pretty different things.  We will sort out this ambiguity later.
 
-* Subgoals: :noexport:
+* Subgoals: 
 :PROPERTIES:
 :ID:       1d3660fd-8826-4afb-b1e4-91b20c27ee9a
 :END:

@@ -12,6 +12,6 @@ Our purpose:
 - The next step will be an AI assistant for professional level teams.
 - *Our long-term vision is computational intelligence based on collective intelligence.*
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]

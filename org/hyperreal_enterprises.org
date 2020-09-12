@@ -191,7 +191,7 @@ Here are the working parts (save as =~/bin/downsample-org-roam.el=):
                                          (downsample)))))
                  (or (car args) (nthcdr 5 command-line-args)))))
 #+end_src
-** Backlog                                                         :noexport:
+** Backlog                                                         
 
 The idea of a backlog is to go from most-doable, starting with work in
 progress, to least-doable and potentially vague.  Here, then, is one
@@ -281,6 +281,6 @@ yet but it gives an idea.
 
 ** Next Steps
 *** TODO Package downsamping code separately                            :joe: 
-** Subgoals:                                                       :noexport:
+** Subgoals:                                                       
 
 - [[file:top.org][Top]]

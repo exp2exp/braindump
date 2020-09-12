@@ -5,6 +5,6 @@
 
 Advances in knowledge mining from technical documents
 
-* Contributes to :noexport:
+* Contributes to 
 
 - [[file:research_outputs.org][RESEARCH OUTPUTS]]

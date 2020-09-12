@@ -21,7 +21,7 @@ with mystery and make excuses, couched in well chosen gibberish,
 whenever any dangerous suggestions were made." -- Alan Turing, 1947.
 #+end_quote
 
-* Next steps :noexport:
+* Next steps 
 :PROPERTIES:
 :ID:       0f6193a1-137a-4fe7-8957-cc4c0b2e1d90
 :END:

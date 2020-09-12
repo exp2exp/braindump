@@ -10,6 +10,6 @@ Presently we’re still figuring out what the work flow and contents would look 
 * DONE Set up initial ghost blog                                        :joe:
 * STARTED Drafting initial blog post                                    :joe:
 
-* Related                                                          :noexport:
+* Related                                                          
 
 - [[file:20200814193042-code_sharing_platform.org][Code sharing platform]]

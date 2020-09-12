@@ -8,6 +8,6 @@ model of Q&A and programming.  This is based on Alan Turing’s
 suggestion that computers could talk with each other to sharpen their
 wits.
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:an_abm_of_the_computer_programming_domain.org][An ABM of the computer programming domain]]

@@ -88,7 +88,7 @@ Some of this will be different depending on whether we think of this as a “bus
 ** TODO Make a list of actual core topics                      :joe:ray:zans:
 ** TODO Make a project analysis of active projects             :joe:ray:
 
-* Subgoals :noexport:
+* Subgoals 
 :PROPERTIES:
 :ID:       17468abb-5c17-458e-a053-72e6356bbad5
 :END:

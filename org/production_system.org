@@ -17,7 +17,7 @@ polygraphs as input, in the workshop paper
 
 * STARTED Reimplementing classic rules to model subtraction :ray:
 
-* Contributes to                                                   :noexport:
+* Contributes to                                                   
 
 - [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]
 - [[file:agent_model.org][Agent model]]

@@ -10,7 +10,7 @@ Neural Machine Translation approach.
 * DONE Seminar describing approach with several notebooks             :deyan:
 * STARTED Refinining translation approach                             :deyan:
 
-* Next steps :noexport:
+* Next steps 
 :PROPERTIES:
 :ID:       2ee512d9-60cf-443c-aa3d-ef8eb42789e9
 :END:

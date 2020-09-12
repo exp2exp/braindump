@@ -36,7 +36,7 @@ in the mean time.
 - Be wary of competing with things like Roam, though some level of competition is intrinsic in business.
 - Roam scratches my itches for these things pretty well.
 
-* Next steps :noexport:
+* Next steps 
 :PROPERTIES:
 :ID:       ea5e74c6-9503-47a0-adfb-dcb23d409429
 :END:

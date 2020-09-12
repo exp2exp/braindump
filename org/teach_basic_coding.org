@@ -27,7 +27,7 @@ something like the Lakatos Game diagram).  But what formalism would
 you use?  E.g., /geometry of interaction in linear logic/ has been
 used for this kind of thing, but could it be used here?
 
-* Contributes to                                                   :noexport:
+* Contributes to                                                   
 :PROPERTIES:
 :ID:       e5d35810-ca01-48f7-90f1-0681fa548385
 :END:

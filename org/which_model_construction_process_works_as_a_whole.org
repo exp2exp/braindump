@@ -10,7 +10,7 @@ that we will find the most effective methods right away.
 So, with these experiments we are investigating the process of model
 construction.
 
-* Subgoals :noexport:
+* Subgoals 
 :PROPERTIES:
 :ID:       0e2b1ab1-9e3a-4e6c-b2a7-e423cb41a030
 :END:

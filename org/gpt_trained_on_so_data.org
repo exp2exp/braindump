@@ -36,6 +36,6 @@ In parsing, it's not just edit distance but has to involve the grammar
 
 * STARTED Initial import of SO for training                             :tim:
 
-* Next steps :noexport:
+* Next steps 
 
 - [[file:display_so_with_similarity_graph.org][Display SO with similarity graph]]
