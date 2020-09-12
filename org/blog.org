@@ -12,4 +12,4 @@ Presently we’re still figuring out what the work flow and contents would look 
 
 * Related                                                          
 
-- [[file:20200814193042-code_sharing_platform.org][Code sharing platform]]
+- [[file:code_sharing_platform.org][Code sharing platform]]

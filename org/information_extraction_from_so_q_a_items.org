@@ -16,4 +16,4 @@ Neural Machine Translation approach.
 :END:
 
 - [[file:knowledge_graph.org][Knowledge graph]]
-- [[file:20200817172825-recommender_system.org][Recommender System]]
+- [[file:recommender_system.org][Recommender System]]

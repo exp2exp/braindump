@@ -13,4 +13,4 @@ building, and so on.
 :END:
 
 - [[file:category_theoretic_glue.org][Category theoretic glue]]
-- [[file:20200814195815-generating_small_graphs.org][Generating small graphs]]
+- [[file:generating_small_graphs.org][Generating small graphs]]

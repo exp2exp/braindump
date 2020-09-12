@@ -12,6 +12,6 @@ graphs.
 
 * Next steps 
 
-- [[file:20200905130423-agent_model.org][Agent model]]
+- [[file:agent_model.org][Agent model]]
 - [[file:teach_arbitrary_coding.org][Teach arbitrary coding]]
-- [[file:20200810135403-advances_in_knowledge_mining_from_technical_documents.org][Advances in knowledge mining from technical documents]]
+- [[file:advances_in_knowledge_mining_from_technical_documents.org][Advances in knowledge mining from technical documents]]

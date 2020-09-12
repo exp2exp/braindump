@@ -9,5 +9,5 @@ who could do scientific work.
 
 * Contributes to 
 
-- [[file:20200814210243-business_development.org][BUSINESS DEVELOPMENT]]
-- [[file:20200814203551-data_course.org][DATA COURSE]]
+- [[file:business_development.org][BUSINESS DEVELOPMENT]]
+- [[file:data_course.org][DATA COURSE]]

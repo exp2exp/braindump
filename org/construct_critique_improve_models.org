@@ -12,4 +12,4 @@ reflection on the infrastructure and tools that we are actually using.
 :END:
 
 - [[file:emacs_hyper_notebook.org][Emacs Hyper Notebook]]
-- [[file:20200810135126-organisational_infrastructure.org][Organisational infrastructure]]
+- [[file:organisational_infrastructure.org][Organisational infrastructure]]

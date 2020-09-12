@@ -13,4 +13,4 @@ potentially other kinds of automation work).
 * Contributes to 
 
 - [[file:research_outputs.org][RESEARCH OUTPUTS]]
-- [[file:20200814210243-business_development.org][BUSINESS DEVELOPMENT]]
+- [[file:business_development.org][BUSINESS DEVELOPMENT]]

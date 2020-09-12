@@ -14,4 +14,4 @@ Our purpose:
 
 * Next steps 
 
-- [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]
+- [[file:teach_basic_coding.org][Teach basic coding]]

@@ -61,9 +61,9 @@ pretty different things.  We will sort out this ambiguity later.
 :ID:       1d3660fd-8826-4afb-b1e4-91b20c27ee9a
 :END:
 
-- [[file:20200905124405-construct_critique_improve_models.org][Construct, critique, improve models]]
-- [[file:20200905124432-underlying_foundation.org][Underlying foundation]]
-- [[file:20200905124558-why_not_what.org][Why not what]]
-- [[file:20200905124633-for_the_sake_of_advancing_ai.org][For the sake of advancing AI]]
-- [[file:20200905124905-technical_experiments_become_easier.org][Technical experiments become easier]]
-- [[file:20200905125023-which_model_construction_process_works_as_a_whole.org][Which model construction process works as a whole?]]
+- [[file:construct_critique_improve_models.org][Construct, critique, improve models]]
+- [[file:underlying_foundation.org][Underlying foundation]]
+- [[file:why_not_what.org][Why not what]]
+- [[file:for_the_sake_of_advancing_ai.org][For the sake of advancing AI]]
+- [[file:technical_experiments_become_easier.org][Technical experiments become easier]]
+- [[file:which_model_construction_process_works_as_a_whole.org][Which model construction process works as a whole?]]

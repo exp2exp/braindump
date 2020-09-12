@@ -8,5 +8,5 @@ us a set of further tools and levers to work with.
 
 * Next steps 
 
-- [[file:20200811185614-gpt_trained_on_so_data.org][GPT fine-tuned on SO Q&A tasks]]
+- [[file:gpt_trained_on_so_data.org][GPT fine-tuned on SO Q&A tasks]]
 

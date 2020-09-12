@@ -45,5 +45,5 @@ Would it play a role as a backend system?
 - [[https://hub.docker.com/r/krishnasrinivas/wetty/][krishnasrinivas/wetty - Docker Hub]]
 
 * Contributes to                                                   
-- [[file:20200810135457-visual_interfaces.org][Visual Interfaces]]
-- [[file:20200810135512-arxana_2020.org][Arxana 2020]]
+- [[file:visual_interfaces.org][Visual Interfaces]]
+- [[file:arxana_2020.org][Arxana 2020]]

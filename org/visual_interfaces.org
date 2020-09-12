@@ -32,4 +32,4 @@ about linux commands), it might be possible to do:
 
 - [[file:probabilistic_programming_for_scientific_modelling.org][Probabilistic programming for scientific modelling]]
 - [[file:paperspace_do_nj_etc_collaboratory.org][Paperspace DO NJ etc. Collaboratory]]
-- [[file:20200810135325-advances_in_tutoring_systems_for_programming.org][Advances in tutoring systems for programming]]
+- [[file:advances_in_tutoring_systems_for_programming.org][Advances in tutoring systems for programming]]

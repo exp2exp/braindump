@@ -12,5 +12,5 @@ way.
 
 * Next steps 
 
-- [[file:20200810135851-teach_basic_coding_with_if.org][Teach basic coding]]
+- [[file:teach_basic_coding.org][Teach basic coding]]
 - [[file:probabilistic_programming_for_scientific_modelling.org][Probabilistic programming for scientific modelling]]
